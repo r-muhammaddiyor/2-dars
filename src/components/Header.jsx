@@ -5,7 +5,7 @@ export default function Header() {
     <header className="p-5 bg-white flex xl:max-w-272 xl:mx-auto xl:w-full pt-12  items-center justify-between">
       {/* Logo */}
       <a href="./index.html" className="inline-block">
-        <img src="/public/logo(black).svg" alt="logo-black" />
+        <img src="./public/logo(black).svg" alt="logo-black" />
       </a>
 
       {/* Navigation for larger screens */}
